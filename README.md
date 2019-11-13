@@ -1,6 +1,6 @@
 # Face_Antispoofing
 
-标签（空格分隔）： `anti-spoofing`
+
 ---
 
 本文是项目https://github.com/coderwangson/Face_Antispoofing 的说明。 
